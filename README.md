@@ -1,2 +1,2 @@
 # sp23finalproj
-iti202OOP
+Final project for ITI202.
