@@ -1,2 +1,8 @@
+# Installation
+Requires Python 3.6 or newer.
 
-Analysis of very old NYT articles.
+pip install re
+
+pip install vaderSentiment
+
+
