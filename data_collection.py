@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = "https://api.nytimes.com/svc/archive/v1/{}/{}.json?api-key=M0w0snmfWALoBIRq2dvIJzFb9pa4FnxO"
+url = "https://api.nytimes.com/svc/archive/v1/{}/{}.json?api-key={api_key}"
 
 dates = [("1918", "10"), ("2020", "10")]
 
